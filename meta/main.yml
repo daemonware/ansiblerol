@@ -20,7 +20,6 @@ galaxy_info:
       - quantal
       - raring
       - saucy
-  categories:
-   - web
+galaxy_tags: ["ansiblerol"]
 dependencies: []
   
